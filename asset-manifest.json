@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/limup3/react-shopping-cart/shoppingCart/static/js/main.a54bc52d.chunk.js",
+    "main.js.map": "/limup3/react-shopping-cart/shoppingCart/static/js/main.a54bc52d.chunk.js.map",
+    "runtime-main.js": "/limup3/react-shopping-cart/shoppingCart/static/js/runtime-main.7454fb26.js",
+    "runtime-main.js.map": "/limup3/react-shopping-cart/shoppingCart/static/js/runtime-main.7454fb26.js.map",
+    "static/js/2.24fb1f60.chunk.js": "/limup3/react-shopping-cart/shoppingCart/static/js/2.24fb1f60.chunk.js",
+    "static/js/2.24fb1f60.chunk.js.map": "/limup3/react-shopping-cart/shoppingCart/static/js/2.24fb1f60.chunk.js.map",
+    "index.html": "/limup3/react-shopping-cart/shoppingCart/index.html",
+    "static/js/2.24fb1f60.chunk.js.LICENSE.txt": "/limup3/react-shopping-cart/shoppingCart/static/js/2.24fb1f60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7454fb26.js",
+    "static/js/2.24fb1f60.chunk.js",
+    "static/js/main.a54bc52d.chunk.js"
+  ]
+}
